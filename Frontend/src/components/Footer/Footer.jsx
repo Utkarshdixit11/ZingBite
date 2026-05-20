@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assests.logo} alt="" style={{width:"120px",height:"120px",borderRadius:"150px"}}></img>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae optio magnam, quod officia dolore ducimus rerum dolorum, sit natus amet nisi? Similique, soluta maiores laudantium nesciunt molestiae maxime! Debitis, placeat.</p>
+                <p>ZingBite is your go-to platform for discovering restaurants, exploring a wide variety of cuisines, and ordering your favorite meals effortlessly. Whether you're craving fast food, traditional dishes, desserts, or healthy options, ZingBite helps you find the best flavors around you with a smooth and convenient experience. Our mission is to make food discovery and online ordering simple, fast, and enjoyable for everyone.</p>
                 <div className='footer-social-icons'>
                     <i class="fa-brands fa-square-facebook"></i>
                     <i class="fa-brands fa-x-twitter"></i>
